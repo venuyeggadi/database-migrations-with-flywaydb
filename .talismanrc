@@ -3,4 +3,9 @@ fileignoreconfig:
   checksum: 6fdb3f9e2e652581fce3752cfb6a58037a79cfdcb2480bc888d5f8c51d552fb4
 - filename: src/main/resources/db/migration/V1.2__CreateTableProducts.sql
   checksum: 19cf07c8d4ec3e03f256830bc4e8f23a34400d63a4899dd208bf799d3546480d
+- filename: src/main/resources/db/migration/V1.3__RenameNameColumnInUsersToFullName.sql
+  checksum: be26f85cbc0d8c1d8c8d9e57b87b3726136fe90259bd27380bc579f830beef2c
+- filename: src/main/resources/db/migration/V1.4__AddColumnPrimaryPhoneNumberToUsers.sql
+  checksum: 08103d4207a68b9814ef3ab55bf82efaa942148390f9695fb55ce566afd95752
+
 version: ""
